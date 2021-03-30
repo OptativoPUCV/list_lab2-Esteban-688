@@ -39,3 +39,9 @@ Tue Mar 30 23:24:16 UTC 2021:
  1 file changed, 1 insertion(+), 1 deletion(-)
  tests:  0|0
 5bdaf3a
+Tue Mar 30 23:26:41 UTC 2021: 
+ list.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ tests:  6|3
+total_score: 35/70
+3b283c4
