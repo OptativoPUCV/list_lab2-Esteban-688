@@ -110,6 +110,7 @@ void pushCurrent(List * list, const void * data) {
 		list->current->next = nodo;
 		list->head = nodo;
 		list->head->next = nodo;
+    nodo->prev = list->head;
     
   }
   else{
